@@ -5,7 +5,7 @@ A sleek Netflix-inspired movie streaming website clone, built entirely using HTM
 <br>
 This project focuses on replicating the user interface and layout of Netflix — including the homepage, navigation bar, featured carousel, movie grids, and footer — to showcase responsive web design and modern UI skills.
 
-🔗 Live Demo: Click Here
+🔗 Live Demo: <a href = "https://md-kounain-ansari.github.io/MovieStreaming-Website-Clone/" target = "_blank"> Click Here <a>
 
 
 ✨ Features
